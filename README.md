@@ -1,4 +1,4 @@
-# Brighten — For Bright Futures
+# Brighten
 
 **Brighten** is an AR-powered educational app for children aged 6–12. It lets kids scan physical toy figures to bring career characters to life in Augmented Reality, then chat with them using AI to learn about different professions.
 
